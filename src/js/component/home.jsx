@@ -13,7 +13,7 @@ const Home = () => {
 		<div className="container">
 			<NavBar />
 			<Jumbotron />
-			<div className="Cards">
+			<div className="cards">
 				<div className="card-group">
 					<Card />
 					<Card />
